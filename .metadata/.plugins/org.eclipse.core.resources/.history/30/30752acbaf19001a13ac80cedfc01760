@@ -1,0 +1,9 @@
+
+public class BaseballCoach implements Coach{
+	
+	@override
+	public String getDailyWorkout() {
+		return "Spend 30 minutes in batting cage";
+	}
+
+}
