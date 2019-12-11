@@ -15,7 +15,7 @@
     <!-- define the dependecny -->
     
     <bean id = "myFortune"
-    class="RandomFortuneService">
+    class="HappyFortuneService">
     </bean>
     
     
@@ -33,8 +33,8 @@
    		<property name="fortuneService" ref="myFortune" />
    		
    	<!-- inject literal values -->
-   		<property name="emailAddress" value="${foo.email}"/>
-   		<property name="team" value="${foo.team}"/>
+   		<property name="emailAddress" value="indresharora@gmail.com"/>
+   		<property name="team" value="mumbai mavericks"/>
    
    </bean>
 </beans>
