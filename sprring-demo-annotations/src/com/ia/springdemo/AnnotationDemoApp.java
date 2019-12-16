@@ -5,7 +5,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class AnnotationDemoApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		//read spring config file
 		
@@ -13,11 +12,13 @@ public class AnnotationDemoApp {
 				new ClassPathXmlApplicationContext("applicationContext.xml");
 		
 		//get the bean from spring container
-		Coach theCoach = context.getBean("thatSillyCoach", Coach.class);
+		Coach theCoach = context.getBean("tennisCoach", Coach.class);
 		
 		//call a method on the bean
 		System.out.println(theCoach.getDailyWorkout());
 		
+		//call method to get daily fortune
+		System.out.println(theCoach.getDailyFortune());
 		//close the context
 		context.close();
 
