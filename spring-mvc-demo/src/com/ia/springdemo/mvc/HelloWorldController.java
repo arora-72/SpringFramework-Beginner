@@ -1,7 +1,11 @@
 package com.ia.springdemo.mvc;
 
 
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
@@ -21,5 +25,16 @@ public class HelloWorldController {
 		return "helloWorld";
 	}
 	
+	
+	//controller: add data and model
+	@RequestMapping("/processFormV2")
+	public String getData(HttpServletRequest request, Model model) {
+		
+		String theName = request.getParameter("studentName");
+		theName = theName.toUpperCase();
+		String result = "yo" + theName;
+		model.addAttribute("message", result);
+		return "helloWorld";
+	}
 
 }

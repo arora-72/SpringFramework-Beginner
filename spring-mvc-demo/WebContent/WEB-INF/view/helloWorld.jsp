@@ -13,6 +13,9 @@ student name
 <center>
 
 Your name is : ${param.studentName} 
+<br>
+<hr>
+The message is: ${message}
 </center>
 
 </body>
