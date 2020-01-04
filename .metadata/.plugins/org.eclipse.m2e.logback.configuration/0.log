@@ -37,3 +37,19 @@ See `man xcode-select` for more details.
 Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
 See `man xcode-select` for more details.
 '
+2019-12-24 16:30:49,824 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-24 16:30:50,186 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-12-24 16:30:52,694 [Worker-5: Decoration Calculation] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '1', error message 'xcrun: error: active developer path ("/Applications/Xcode.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+'
+2019-12-29 10:18:37,101 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-29 10:18:39,145 [Worker-5: Decoration Calculation] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '1', error message 'xcrun: error: active developer path ("/Applications/Xcode.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+'
+2020-01-03 21:59:42,945 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-01-03 21:59:45,742 [Worker-0: Decoration Calculation] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '1', error message 'xcrun: error: active developer path ("/Applications/Xcode.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+'

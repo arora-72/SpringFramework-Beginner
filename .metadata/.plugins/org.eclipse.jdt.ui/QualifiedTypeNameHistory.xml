@@ -23,10 +23,17 @@
 <fullyQualifiedTypeName name="com.ia.springdemo.FortuneService"/>
 <fullyQualifiedTypeName name="sun.misc.Contended"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
+<fullyQualifiedTypeName name="com.ia.springdemo.mvc.Student"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="com.sun.javafx.collections.MappingChange.Map"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 </qualifiedTypeNameHistroy>

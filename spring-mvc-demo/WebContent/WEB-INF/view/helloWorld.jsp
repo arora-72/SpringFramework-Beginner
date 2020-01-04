@@ -1,23 +1,25 @@
+
+<!DOCTYPE html>
 <html>
 
-<head>
-
-<title>
-student name
-</title>
-
-</head>
-
 <body>
-<br><br>
-<center>
 
-Your name is : ${param.studentName} 
-<br>
-<hr>
-The message is: ${message}
-</center>
+Hello World of Spring!
+
+<br><br>
+
+Student name: ${param.studentName}
+
+<br><br>
+
+The message: ${message}
 
 </body>
 
 </html>
+
+
+
+
+
+

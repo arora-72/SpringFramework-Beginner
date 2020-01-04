@@ -1,21 +1,32 @@
 <!DOCTYPE html>
-
 <html>
 
 <body>
 
-<h2>  Spring MVC jsp first page</h2>
+<h2>Spring MVC Demo - Home Page</h2>
+
+<hr>
+
+<a href="hello/showForm">Hello World form</a>
+
+<br><br>
+
+<a href="student/showForm">Student form</a>
 
 
+<br><br>
 
-hello world form: 
-<br>
+<a href="customer/showForm">Customer form</a>
 
-<a href="hello/showForm"> hello world form</a>
 
-<br><hr><br>
-<a href="student/showForm"> Student form </a>
 
 </body>
 
 </html>
+
+
+
+
+
+
+

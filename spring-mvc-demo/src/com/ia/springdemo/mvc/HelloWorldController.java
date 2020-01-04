@@ -1,7 +1,5 @@
 package com.ia.springdemo.mvc;
 
-
-import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.stereotype.Controller;
@@ -12,43 +10,65 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 @RequestMapping("/hello")
 public class HelloWorldController {
-	
-	//controller to show initial HTML forms
-	
+
+	// need a controller method to show the initial HTML form
+
 	@RequestMapping("/showForm")
 	public String showForm() {
-		return "helloWorld-form";
-	}
-	
-	
-	//controller to process HTML forms
-	@RequestMapping("/processForm")
-	public String processForm() {
-		return "helloWorld";
-	}
-	
-	
-	//controller: add data and model
-	@RequestMapping("/processFormV2")
-	public String getData(HttpServletRequest request, Model model) {
-		
-		String theName = request.getParameter("studentName");
-		theName = theName.toUpperCase();
-		String result = "yo" + theName;
-		model.addAttribute("message", result);
-		return "helloWorld";
-	}
-	
-	@RequestMapping("/processFormV3")
-	public String getData3(
-			@RequestParam("studentName") String theName,
-			Model model) {
-		
-		
-		theName = theName.toUpperCase();
-		String result = "v3 of the name : " + theName;
-		model.addAttribute("message", result);
-		return "helloWorld";
+		return "helloworld-form";
 	}
 
+	// need a controller method to process the HTML form
+
+	@RequestMapping("/processForm")
+	public String processForm() {
+		return "helloworld";
+	}
+
+	// new a controller method to read form data and
+	// add data to the model
+
+	@RequestMapping("/processFormVersionTwo")
+	public String letsShoutDude(HttpServletRequest request, Model model) {
+
+		// read the request parameter from the HTML form
+		String theName = request.getParameter("studentName");
+
+		// convert the data to all caps
+		theName = theName.toUpperCase();
+
+		// create the message
+		String result = "Yo! " + theName;
+
+		// add message to the model
+		model.addAttribute("message", result);
+
+		return "helloworld";
+	}
+
+	@RequestMapping("/processFormVersionThree")
+	public String processFormVersionThree(
+			@RequestParam("studentName") String theName,
+			Model model) {
+
+		// convert the data to all caps
+		theName = theName.toUpperCase();
+
+		// create the message
+		String result = "Hey My Friend from v3! " + theName;
+
+		// add message to the model
+		model.addAttribute("message", result);
+
+		return "helloworld";
+	}
+
+
+
 }
+
+
+
+
+
+
