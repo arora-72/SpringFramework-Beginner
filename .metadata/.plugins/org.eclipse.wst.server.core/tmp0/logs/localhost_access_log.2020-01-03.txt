@@ -1,0 +1,2 @@
+127.0.0.1 - - [03/Jan/2020:22:01:54 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [03/Jan/2020:22:01:55 +0530] "GET /solution-code-spring-mvc-validation-required-fields/ HTTP/1.1" 404 682

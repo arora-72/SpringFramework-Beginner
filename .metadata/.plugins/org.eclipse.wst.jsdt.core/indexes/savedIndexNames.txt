@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/indresharora/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3746270557.index
+557173393.index
+2450248342.index
+917530723.index
+1664041986.index
+2119229994.index
+1300140966.index
