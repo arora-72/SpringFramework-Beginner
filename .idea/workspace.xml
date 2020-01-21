@@ -2,21 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="642b0aae-d7f4-4009-9832-65b999a92109" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/eclipse-workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackrock training/Blackrock training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackrock training/src/com/ia/calculator/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackrock training/src/com/ia/calculator/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackrock training/src/com/ia/calculator/calculatorFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackrock training/src/com/ia/calculator/complexNumberFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/inventory management system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/src/Models/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/src/Service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/src/util/DeleteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory management system/src/util/DuplicateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/Spring_Blk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/src/main/java/com/blk/spring/HelloInterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/src/main/java/com/blk/spring/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/src/main/java/com/blk/spring/PrintMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_blackrock_initial/src/main/resources/spring-bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/37/10358b74462e001a1506a901feec3eeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4c/50608974462e001a1506a901feec3eeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8f/207a8674462e001a1506a901feec3eeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a0/f0758874462e001a1506a901feec3eeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c/80f38474462e001a1506a901feec3eeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/solution-code-spring-mvc-validation-required-fields/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/solution-code-spring-mvc-validation-required-fields/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/solution-code-spring-mvc-validation-required-fields/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/spring-mvc-demo/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/spring-mvc-demo/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/sprring-demo-annotations/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/sprring-demo-annotations/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/14.tree" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.monitor.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.monitor.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.theming.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.theming.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/3746270557.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/3746270557.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
     </list>
@@ -62,6 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578296443817</updated>
       <workItem from="1578296450812" duration="155000" />
+      <workItem from="1579588541129" duration="1237000" />
     </task>
     <servers />
   </component>

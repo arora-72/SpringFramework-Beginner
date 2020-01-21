@@ -36,4 +36,12 @@
 <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="com.first.ia.CountInstances"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="com.account.ia.Operation"/>
+<fullyQualifiedTypeName name="com.account.ia.Account"/>
+<fullyQualifiedTypeName name="com.account.ia.AccountFunctions"/>
+<fullyQualifiedTypeName name="com.account.ia.SavingsOperation"/>
+<fullyQualifiedTypeName name="com.account.ia.CurrentOperations"/>
+<fullyQualifiedTypeName name="customComparator.Person"/>
 </qualifiedTypeNameHistroy>

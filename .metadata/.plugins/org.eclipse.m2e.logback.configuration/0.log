@@ -58,3 +58,15 @@ See `man xcode-select` for more details.
 Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
 See `man xcode-select` for more details.
 '
+2020-01-17 10:34:25,595 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-01-17 10:34:32,853 [Worker-5: Decoration Calculation] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '1', error message 'xcrun: error: active developer path ("/Applications/Xcode.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+'
+2020-01-20 17:20:31,988 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-01-20 17:20:36,440 [Worker-4: Decoration Calculation] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '69', error message '
+
+Agreeing to the Xcode/iOS license requires admin privileges, please run âsudo xcodebuild -licenseâ and then retry this command.
+
+
+'
