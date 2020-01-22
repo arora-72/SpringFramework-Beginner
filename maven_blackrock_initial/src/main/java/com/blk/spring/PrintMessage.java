@@ -9,7 +9,7 @@ import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
 
-@Component
+@Component("abc")
 public class PrintMessage  {
 
     @Value("test1")

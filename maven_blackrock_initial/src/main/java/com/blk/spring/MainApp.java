@@ -24,7 +24,7 @@ public class MainApp {
 //        System.out.println(obj1.getName());
 
         //PrintMessage pmo = context.getBean("printMessage", PrintMessage.class);
-        PrintMessage bean = context.getBean(PrintMessage.class);
+        PrintMessage bean = context.getBean("abc",PrintMessage.class);
         System.out.println(bean.getMessage());
         //context.close();
     }
