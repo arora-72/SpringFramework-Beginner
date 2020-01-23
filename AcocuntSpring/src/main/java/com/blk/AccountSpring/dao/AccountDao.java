@@ -11,9 +11,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Repository
-public class AccountDao {
+public class AccountDao implements GenericDao<Account> {
 
-    private List<Account> accountList = new ArrayList<Account>();
+    private List<Account> accountList = new ArrayList<>();
 
 
 
@@ -32,6 +32,7 @@ public class AccountDao {
         accountList.add(a5);
 
     }
+
 
     public List<Account> getAccountList(){
         return accountList;
